@@ -46,7 +46,7 @@ The model handles advanced quantitative finance questions with full mathematical
 | Target modules | All linear layers |
 | Max sequence length | 4096 tokens |
 | Training hardware | NVIDIA RTX 4090 (24 GB VRAM) |
-| Training duration | ~4 minutes |
+| Training duration | ~34 minutes |
 | Training loss | 2.566 → converged |
 | Framework | Unsloth + TRL SFTTrainer |
 
